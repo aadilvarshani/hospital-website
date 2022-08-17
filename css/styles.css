@@ -1,0 +1,201 @@
+.navbtm{
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 10px;
+}
+
+
+#header{
+    color: #1B325A;
+    background-color: #E7F0FF;
+}
+
+ h1{
+    color: #1B325A;
+    padding: 12% 4% 3% 4%;
+    font-family: "Passion One";
+    font-size: 5rem;
+}
+
+#Services{
+    text-align: center;
+}
+
+h2{
+   
+    padding-top: 6%;
+    font-family: "Passion One";
+    font-size: 3.5rem;
+    
+}
+
+h3 , .accordion-header{
+    color: #1B325A;
+}
+
+#header p{
+    font-weight: 500;
+    padding-left: 4%;
+    padding-bottom: 3%;
+}
+
+p{
+    color: #1B325A;
+    font-family: "Nunito";
+    font-size: 1.4rem;
+    font-weight: 400;
+   
+}
+
+.card-text{
+    color: #1B325A;
+    font-family: "Nunito";
+    font-size: 1.4rem;
+    font-weight: 400;
+    text-align: left;
+   
+}
+
+.btn-head{
+    margin-left: 4%;
+    margin-bottom: 8%;
+}
+
+.navbar-brand{
+    margin-left: 4%;
+}
+
+.dimg{
+    padding: 6% 0px 0px 14%;
+    width: 100%;
+}
+
+.middle-container{
+    text-align: center;
+    margin: 6% 6%;
+}
+
+.icons{
+    color: #1B325A;
+}
+
+.mid-head{
+    padding: 2% 0%;
+}
+
+.icons:hover, .mid-head:hover{
+    color: cornflowerblue;
+}
+
+#Speciality{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+#Speciality h2{
+    padding-left: 8%;
+    
+}
+
+.cards{
+    text-align: left;
+    padding: 6% 8%;
+}
+.card-body{
+    padding: 1rem 2rem;
+}
+.card{
+    
+    width: 20rem;
+    right: 5%; 
+}
+
+.card-title{
+    color: #1B325A;
+    font-family: "Passion One";
+
+}
+
+.about-container{
+    text-align: left;
+    padding-left: 7%;
+    padding-right: 14%;
+    padding-top: 6%;
+    margin-bottom: 0px;
+    padding-bottom: 0%;
+}
+
+.about-container h2{
+    padding-top: 0%;
+    padding-bottom: 6%;
+}
+.about-container p{
+    
+    font-weight: 500;
+}
+
+.about-container button{
+    margin-top: 6%;
+}
+
+.drpimg{
+    
+    width: 120%;
+    height: 80%;
+    border-radius: 10%;
+}
+
+#email{
+    text-align: center;
+    background-color: cornflowerblue;
+    padding-bottom: 3%;
+}
+
+#email h2{
+    color: white;
+    padding: 4% 10%;
+}
+
+.flush-container{
+    padding-left: 2%;
+}
+
+#About{
+    color: #1B325A;
+}
+
+.aboutp{
+    
+    color: cornflowerblue;
+    font-weight: 600;
+    border: 0px;
+    margin-bottom: 0%;
+    padding-bottom: 0px;
+}
+
+.accordion-container-1{
+    
+ padding-left: 7%;
+ padding-bottom: 7%;
+}
+
+.accordion-container-1 h2 {
+    padding-top: 0%;
+}
+
+.accordion-container-2{
+    padding-left: 7%;
+    padding-bottom: 7%;
+}
+
+.drpimg1{
+    margin-left: 8%;
+    border-radius: 10%;
+    width: 60%;
+    margin-top: 6%;
+}
+
+.email-input{
+    margin-left: 10%;
+    margin-right: 10%;
+}
